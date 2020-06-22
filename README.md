@@ -31,5 +31,5 @@
 - Control your instance using RDP or SSH
 - 120+ instance sizes and 6  instance types 
 
-<p align="center"><img src="/images/azure/vm-types.png" width="500"></p>
+<p align="center"><img src="/images/azure/vm-types.png" width="700"></p>
 
