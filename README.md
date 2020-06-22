@@ -9,16 +9,20 @@
 
 <p align="center"><img src="/images/cloudguru/regions.png" width="700"></p>
 
-##  Azure Resource Manager (ARM)
-- Azure deployment and management service,  enabling you to create, update, and delete Azure resources 
+##  Management groups, subscriptions, resource groups, and resources
+
+<p align="center"><img src="/images/azure/tree.png" width="700"></p>
+
 - **Resource**: a manageable item that is available through Azure
 - **Resource group**: a container that holds related resources for an Azure solution
 - **Resource provider**: a service that supplies Azure resources e.g. Microsoft is a provider
+- **Management groups**: organize subscriptions into containers. 10,000 management groups can be supported in a single directory
 
-<p align="center"><img src="/images/azure/nested-tiers-template.png" width="400"></p>
+<p align="center"><img src="/images/azure/scope-levels.png" width="700"></p>
 
+- **Azure Resource Manager (ARM)**:  Azure deployment and management service,  enabling you to create, update, and delete Azure resources
 - **ARM template**: to implement infrastructure as code for your Azure solutions using a JSON file
 
-<p align="center"><img src="/images/azure/scope-levels.png" width="400"></p>
+<p align="center"><img src="/images/azure/nested-tiers-template.png" width="700"></p>
 
 
