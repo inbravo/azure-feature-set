@@ -1,3 +1,5 @@
+# Azure 300 
+ 
 ## Global Infrastructure
 - **Region**: a set of datacenters deployed within a latency-defined perimeter, using a low-latency network
 - **Availability Zone**: unique physical locations within a region. Each zone is made up of one or more datacenters
@@ -25,4 +27,9 @@
 
 <p align="center"><img src="/images/azure/nested-tiers-template.png" width="500"></p>
 
+##  Virtual machines
+- Control your instance using RDP or SSH
+- 120+ instance sizes and 6  instance types 
+
+<p align="center"><img src="/images/azure/vm-types.png" width="500"></p>
 
