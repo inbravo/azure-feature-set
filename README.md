@@ -1,4 +1,4 @@
-# Azure 300 
+# Azure 303 
  
 ## Global Infrastructure
 - **Region**: a set of datacenters deployed within a latency-defined perimeter, using a low-latency network
