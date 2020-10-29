@@ -11,7 +11,12 @@
 -	**Customer latency capabilities**: Cloud services have the ability to deploy resources in datacenters around the globe, which addresses any customer latency issues
 -	**Predictive cost considerations**: The ability for users to predict the costs they will incur for a particular cloud service
 	-	Capital Expenditure (**CapEx**): This is the up front spending of money on physical infrastructure
-	-	Operational Expenditure (**OpEx**): This is spending money on services or products now and being billed for them now
+	-	Operational Expenditure (**OpEx**): This is spending money on services or products
+	- 	Cloud service providers operate on a **Consumption-Based Model**
+		-	No upfront costs
+		-	No need to purchase and manage costly infrastructure that may not be used to its fullest
+		-	The ability to pay for additional resources when they are needed
+		-	The ability to stop paying for resources that are no longer needed
 -	**Technical skill requirements and considerations**: Getting a workload up and running with cloud services demands less technical resources
 -	**Increased productivity**: On-site datacenters typically require a lot of hardware setup (otherwise known as racking and stacking), software patching, and other time-consuming IT management chores. Cloud computing eliminates the need for many of these tasks
 -	**Security**: Cloud providers offer a broad set of policies, technologies, controls, and expert technology skills that can provide better security than most organizations can otherwise achieve
