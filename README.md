@@ -30,8 +30,10 @@
 ## Cloud computing (CSNA)
 - Cloud computing providers offer a wide range of services. Typically, these services include:
 	-	**Compute power**: succh as software applications working on virtual machines, containers or serverless computing
-	
-		<p align="center"><img src="/images/azure/compute.png" width="500"></p>
+		-	VM is an emulation of a computer, just like your desktop or laptop you're using now
+		-	Containers provide a consistent, isolated execution environment, similar to VMs except they don't require a guest operating system
+		-	Serverless computing lets you run application code without creating, configuring, or maintaining a server
+		<p align="center"><img src="/images/azure/compute.png" width="700"></p>
 		
     -	**Storage** such as files and databases
     -	**Networking** such as secure connections between the cloud provider and your company
