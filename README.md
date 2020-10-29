@@ -1,5 +1,21 @@
 # Azure 900 + 104 + 303 + 304
- 
+
+## Key cloud concepts
+-	**High availability**: The ability to keep services up and running for long periods of time, with very little downtime
+-	**Scalability**: The ability to increase or decrease resources for any given workload
+-	**Elasticity**: The ability to automatically or dynamically increase or decrease resources as needed
+-	**Agility**: The ability to react quickly. Cloud services can allocate and deallocate resources quickly
+-	**Fault tolerance**: The ability to remain up and running even in the event of a component (or service) no longer functioning
+-	**Disaster recovery**: The ability to recover from an event which has taken down a cloud service
+-	**Global reach**: The ability to reach audiences around the globe
+-	**Customer latency capabilities**: Cloud services have the ability to deploy resources in datacenters around the globe, which addresses any customer latency issues
+-	**Predictive cost considerations**: The ability for users to predict the costs they will incur for a particular cloud service
+	-	Capital Expenditure (**CapEx**): This is the up front spending of money on physical infrastructure
+	-	Operational Expenditure (**OpEx**): This is spending money on services or products now and being billed for them now
+-	**Technical skill requirements and considerations**: Getting a workload up and running with cloud services demands less technical resources
+-	**Increased productivity**: On-site datacenters typically require a lot of hardware setup (otherwise known as racking and stacking), software patching, and other time-consuming IT management chores. Cloud computing eliminates the need for many of these tasks
+-	**Security**: Cloud providers offer a broad set of policies, technologies, controls, and expert technology skills that can provide better security than most organizations can otherwise achieve
+
 ## Global Infrastructure
 - **Region**: a set of datacenters deployed within a latency-defined perimeter, using a low-latency network
 - **Availability Zone**: unique physical locations within a region. Each zone is made up of one or more datacenters
