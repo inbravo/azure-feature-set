@@ -1,4 +1,4 @@
-# Azure 303 
+# Azure 900 + 104 + 303 + 304
  
 ## Global Infrastructure
 - **Region**: a set of datacenters deployed within a latency-defined perimeter, using a low-latency network
@@ -27,9 +27,32 @@
 
 <p align="center"><img src="/images/azure/nested-tiers-template.png" width="500"></p>
 
+## Cloud computing (CSNA)
+- Cloud computing providers offer a wide range of services. Typically, these services include:
+	-	**Compute power**: succh as software applications working on virtual machines, containers or serverless computing
+	
+		<p align="center"><img src="/images/azure/compute.png" width="500"></p>
+		
+    -	**Storage** such as files and databases
+    -	**Networking** such as secure connections between the cloud provider and your company
+    -	**Analytics** such as visualizing telemetry and performance data
+
 ##  Virtual machines
 - Control your instance using RDP or SSH
-- 120+ instance sizes and 6  instance types 
+- 120+ instance sizes and 6 instance types 
+- Burstable VMs—B1S
+- Compute optimised—Fsv2
+- General purpose—Dv3
+- Memory optimised—Ev3
+- GPU machines-N
 
 <p align="center"><img src="/images/azure/vm-types.png" width="700"></p>
 
+##	Dedicated hosts
+- Physical servers dedicated to your organization
+- VM series types: DS, ES and FS
+- Not shared with other customers
+- Provides Azure hybrid benefits
+- Host level isolocation helps address compliance requirements
+- You get control over the the server infra
+- A host group is a resource that represents a collection of dedicated hosts
