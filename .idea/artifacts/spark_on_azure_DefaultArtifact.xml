@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark-on-azure_DefaultArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_on_azure_DefaultArtifact</output-path>
+    <root id="archive" name="default_artifact.jar">
+      <element id="module-output" name="azure-feature-set" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,84 @@
+{
+    "authorization": {
+        "action": "Microsoft.Synapse/workspaces/bigDataPools/write",
+        "scope": "/subscriptions/8a2c5703-6be7-488d-8662-24505955cb58/resourcegroups/synapse-resource/providers/Microsoft.Synapse/workspaces/first-workspace/bigDataPools/FirstSparkPool"
+    },
+    "caller": "amit.dixit@impetus.com",
+    "channels": "Operation",
+    "claims": {
+        "aud": "https://management.core.windows.net/",
+        "iss": "https://sts.windows.net/b9dfa905-6761-4a54-8aa0-7b7647bbafb8/",
+        "iat": "1657347829",
+        "nbf": "1657347829",
+        "exp": "1657352543",
+        "http://schemas.microsoft.com/claims/authnclassreference": "1",
+        "aio": "AVQAq/8TAAAAx8Su/+JxLuQBRHXzNJp02yickMSTHC1kCpIyQqesU3E10vWIUhaDJXtMCw/VBaw/knFZPSQ4bIcAww52YfzvDYxN8DdztvYKWo6IE1ArY9U=",
+        "http://schemas.microsoft.com/claims/authnmethodsreferences": "pwd,mfa",
+        "appid": "c44b4083-3bb0-49c1-b47d-974e53cbdf3c",
+        "appidacr": "2",
+        "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname": "Dixit",
+        "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname": "Amit",
+        "groups": "ed454fcf-59cb-4f48-9fbe-9b60ec810832,abdcee55-f311-4b9c-a464-4adfcb7adf3f,b21296e8-c753-4fc4-859a-fc5c0b4dd54e,fc21c96b-b8a4-4c40-bd64-0bbc4d275378,3da95286-3a47-4721-ab2b-5329303e1d5b,8c0620bb-3f48-4dd9-9f08-d2625950e266,2b1fdf25-98c3-4be5-9cdc-c44ce3edf5aa,75e4fb4c-8ec4-4808-8319-5494c381ee90,04767276-e34b-409a-8e25-9afd914036c9,57656645-0d2f-43e3-bcca-40372a519068,826f7752-e5ae-4919-b624-0186a1567cca,7c2ff708-9345-460c-a57a-fb18ac28a7ed,0a0e4ac1-e695-4117-a79f-afc8e04144ef,5b3451cc-a189-4fec-b866-11a16654ac0e,a8296c54-cb81-4793-8189-fe0533be7fd6,954b1ac3-9c4b-4c36-9a90-036038ad979e,a36e964f-1b90-40d7-a6f2-342343f7d8c7,1719cfc1-d1e7-4f0d-b081-68cfc8c23148,9a51335b-bb41-4a57-ad53-4eb11bc8663b,79a8d283-0c07-48ec-96b0-c6aa19fce752,cb0c52b0-5a9d-4cbb-9b2b-346e9395b3aa,9b02aaf9-1cf0-44a4-975c-55a338f57a87,98f043ce-4a77-4787-9908-36011709af18,cd8ccfca-1959-4198-a89a-0bd6ee1c5fb5,9aae5d10-7d35-4ca0-a4c0-e1ec326e51a5,104abc50-3851-4cce-8100-7c756d60c152,6dcf8403-2ce2-4ae9-b781-3922cc35a4d8,00fa55ec-57f5-4a7b-9f54-88a86a05c6bd,d31de16b-60bd-46d9-9819-108dc8cdc5f1,dad372ad-9397-448e-80d0-bdec53b9bb0f,f906b851-cf82-488c-8a0f-540a8b951b60,23443859-a7e1-42af-b3f9-9c2e754038cc,f9b33414-5761-41c5-b6f6-7eb9a10ff4b5,2bd6108e-2e9c-42f1-9184-8c8df5ba1883,0ac499e1-5068-4857-829a-1f85ee3d9bae,1858c0d1-8377-4d2f-9bb8-0125b1c7372f,9d8028d9-88d5-479c-bee4-30bfcb252249,ce3f8f4a-f295-41f6-aa88-8f8cc38a3f72",
+        "ipaddr": "122.161.51.246",
+        "name": "Amit Dixit",
+        "http://schemas.microsoft.com/identity/claims/objectidentifier": "8b3890c6-3a27-4e03-b98a-d0d2fd59b8be",
+        "onprem_sid": "S-1-5-21-2568565148-948773811-1255567339-7650",
+        "puid": "10033FFFA0DC508C",
+        "rh": "0.AVYABanfuWFnVEqKoHt2R7uvuEZIf3kAutdPukPawfj2MBNWAHQ.",
+        "http://schemas.microsoft.com/identity/claims/scope": "user_impersonation",
+        "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier": "_uUGdOCkRN7eky2S0SnqjwqCCacfFW-JkM7xPKQdYPI",
+        "http://schemas.microsoft.com/identity/claims/tenantid": "b9dfa905-6761-4a54-8aa0-7b7647bbafb8",
+        "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name": "amit.dixit@impetus.com",
+        "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/upn": "amit.dixit@impetus.com",
+        "uti": "JWtkhK0dbk-MSYpEE5OmAA",
+        "ver": "1.0",
+        "xms_tcdt": "1482901639"
+    },
+    "correlationId": "925f6a62-3a78-4d73-973d-82c98ee6d333",
+    "description": "",
+    "eventDataId": "a185fb65-63de-415d-9447-eecf5905e69f",
+    "eventName": {
+        "value": "EndRequest",
+        "localizedValue": "End request"
+    },
+    "category": {
+        "value": "Administrative",
+        "localizedValue": "Administrative"
+    },
+    "eventTimestamp": "2022-07-09T06:33:43.9718812Z",
+    "id": "/subscriptions/8a2c5703-6be7-488d-8662-24505955cb58/resourcegroups/synapse-resource/providers/Microsoft.Synapse/workspaces/first-workspace/bigDataPools/FirstSparkPool/events/a185fb65-63de-415d-9447-eecf5905e69f/ticks/637929452239718812",
+    "level": "Informational",
+    "operationId": "5fdffd39-a48f-4c0b-88cb-91c4dd9df113",
+    "operationName": {
+        "value": "Microsoft.Synapse/workspaces/bigDataPools/write",
+        "localizedValue": "Create or Update Spark pools."
+    },
+    "resourceGroupName": "synapse-resource",
+    "resourceProviderName": {
+        "value": "Microsoft.Synapse",
+        "localizedValue": "Microsoft.Synapse"
+    },
+    "resourceType": {
+        "value": "Microsoft.Synapse/workspaces/bigDataPools",
+        "localizedValue": "Microsoft.Synapse/workspaces/bigDataPools"
+    },
+    "resourceId": "/subscriptions/8a2c5703-6be7-488d-8662-24505955cb58/resourcegroups/synapse-resource/providers/Microsoft.Synapse/workspaces/first-workspace/bigDataPools/FirstSparkPool",
+    "status": {
+        "value": "Succeeded",
+        "localizedValue": "Succeeded"
+    },
+    "subStatus": {
+        "value": "",
+        "localizedValue": ""
+    },
+    "submissionTimestamp": "2022-07-09T06:34:52.1114656Z",
+    "subscriptionId": "8a2c5703-6be7-488d-8662-24505955cb58",
+    "tenantId": "b9dfa905-6761-4a54-8aa0-7b7647bbafb8",
+    "properties": {
+        "eventCategory": "Administrative",
+        "entity": "/subscriptions/8a2c5703-6be7-488d-8662-24505955cb58/resourcegroups/synapse-resource/providers/Microsoft.Synapse/workspaces/first-workspace/bigDataPools/FirstSparkPool",
+        "message": "Microsoft.Synapse/workspaces/bigDataPools/write",
+        "hierarchy": "b9dfa905-6761-4a54-8aa0-7b7647bbafb8/8a2c5703-6be7-488d-8662-24505955cb58"
+    },
+    "relatedEvents": []
+}
