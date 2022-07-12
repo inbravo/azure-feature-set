@@ -17,7 +17,7 @@
  */
 
 
-package sample
+package com.inbravo.azure.synapse
 
 import org.apache.spark.{SparkConf, SparkContext}
 //import com.example.hello._

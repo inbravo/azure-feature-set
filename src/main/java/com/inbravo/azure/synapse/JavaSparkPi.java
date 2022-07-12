@@ -3,7 +3,7 @@
  * Licensed under the MIT License. See License.txt in the project root for license information.
  */
 
-package sample;
+package com.inbravo.azure.synapse;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;

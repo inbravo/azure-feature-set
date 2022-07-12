@@ -16,7 +16,7 @@
  */
 
 // scalastyle:off println
-package org.apache.spark.examples.mllib
+package com.inbravo.azure.synapse
 
 import org.apache.spark.{SparkConf, SparkContext}
 // $example on$

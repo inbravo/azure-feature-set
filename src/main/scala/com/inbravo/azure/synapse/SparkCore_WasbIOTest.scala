@@ -1,4 +1,4 @@
-package sample
+package com.inbravo.azure.synapse
 
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
