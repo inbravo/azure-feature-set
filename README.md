@@ -1,4 +1,7 @@
-# Preperation notes for Azure 900 exams
+# This repo contains my experiments with Azure
 
-## [AZ 900: Microsoft Azure Fundamentals](az-900.md)
-## [DP 900: Microsoft Azure Data Fundamentals](dp-900.md)
+## A Scala and Spark based sample application to run on Azure Synapse workspace
+- Use Maven to install the dependencies and build the code
+
+## [AZ 900: Microsoft Azure Fundamentals](certificate/az-900.md)
+## [DP 900: Microsoft Azure Data Fundamentals](certificate/dp-900.md)
