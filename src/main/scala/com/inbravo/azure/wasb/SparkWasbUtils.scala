@@ -1,13 +1,18 @@
-package com.inbravo.azure.synapse
+package com.inbravo.azure.wasb
 
-import org.apache.spark.SparkConf
-import org.apache.spark.SparkContext
+import org.apache.spark.{SparkConf, SparkContext}
 
 /**
-  * Test IO to wasb
-  */
-object SparkCore_WasbIOTest {
-  def main (arg: Array[String]): Unit = {
+ * Test IO to Windows Azure Storage Blob (WASB)
+ * amit.dixit
+ */
+object SparkWasbUtils {
+
+  /*
+   * Main executor method
+   */
+  def main(arg: Array[String]): Unit = {
+
     val conf = new SparkConf().setAppName("SparkCore_WasbIOTest")
     val sc = new SparkContext(conf)
 
